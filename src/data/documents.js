@@ -9,6 +9,6 @@ export const documentosFaseI = [
     { id: "08", nombre: "08-DURACIÓN DEL PROYECTO - CANTV", estado: "completado", ruta: "/documentos/08-DURACIÓN DEL PROYECTO - CANTV.docx" },
     { id: "09", nombre: "09-COSTO DEL PROYECTO - CANTV", estado: "completado", ruta: "/documentos/09-COSTO DEL PROYECTO - CANTV.docx" },
     { id: "10", nombre: "10-PLAN DE ENTREGAS(PLAN RELEASE) - CANTV", estado: "completado", ruta: "/documentos/10-PLAN DE ENTREGAS(PLAN RELEASE) - CANTV.docx" },
-    { id: "11", nombre: "11-Plantilla-Scrum-Gestion-de-Proyectos-Agiles-KZI-Kaizenia - CANTV", estado: "completado", ruta: "/documentos/11-Plantilla-Scrum-Gestion-de-Proyectos-Agiles-KZI-Kaizenia - CANTV.docx" },
-    { id: "12", nombre: "12-PLANILLA SPRINT - CANTV", estado: "completado", ruta: "/documentos/12-PLANILLA SPRINT - CANTV.docx" }
+    { id: "11", nombre: "11-Plantilla-Scrum-Gestion-de-Proyectos-Agiles-KZI-Kaizenia - CANTV", estado: "completado", ruta: "/documentos/11-Plantilla-Scrum-Gestion-de-Proyectos-Agiles-KZI-Kaizenia - CANTV.xlsx" },
+    { id: "12", nombre: "12-PLANILLA SPRINT - CANTV", estado: "completado", ruta: "/documentos/12-PLANILLA SPRINT - CANTV.xlsx" }
 ];
